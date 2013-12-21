@@ -19,48 +19,48 @@ header, footer, nav, section, article, hgroup, figure {
 
 /************End Reset**************/
 /************Global**************/
-body {
+body.projecthub {
   background: #fff;
   color: #222222;
   font: 120%/1.4 "HelveticaNeue", "Helvetica", "Arial", sans-serif;
   padding: 1em;
   -webkit-text-size-adjust: 100%; }
   @media all and (min-width: 40em) {
-    body {
+    body.projecthub {
       padding-left: 2em; } }
 
-a {
+body.projecthub a {
   color: gray;
   text-decoration: none; }
 
-a:hover, a:focus {
+body.projecthub a:hover, body.projecthub a:focus {
   color: #222222;
   text-decoration: underline; }
 
-p {
+body.projecthub p {
   margin: 0 0 1em; }
 
-img, object, video {
+body.projecthub img, body.projecthub object, body.projecthub video {
   max-width: 100%;
   border: 0; }
 
-a img {
+body.projecthub a img {
   border: 0;
   outline: 0; }
 
-h1 {
+body.projecthub h1 {
   font-size: 2em;
   line-height: 1;
   letter-spacing: -0.02em;
   margin-bottom: 0.8em; }
 
-h2 {
+body.projecthub h2 {
   text-transform: lowercase;
   font-size: 3em;
   line-height: 1.1;
   margin: 0 0 0.4em; }
 
-h3 {
+body.projecthub h3 {
   font-size: 1.8em;
   line-height: 1.1;
   margin: 0 0 0.2em;
