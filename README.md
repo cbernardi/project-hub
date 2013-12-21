@@ -4,11 +4,11 @@ Project Hub Siteleaf Port
 This a port of Project Hub for users of the [Siteleaf CMS](http://www.siteleaf.com/). I have a [live demo](http://simplyand.com/projecthub/demo-site/) up on my site. Thanks to [@brad_frost](https://twitter.com/brad_frost) for the inspiration and [@siteleaf](https://twitter.com/siteleaf) and [@destroytoday](https://twitter.com/destroytoday) for the technical help.
 
 ## To use:
-1 Add files to your theme in the corresponding folders
-2 Create a top level page called *Project Path*. Make sure the slug is *projectpath*.
-3 For a new project, create a subpage fo Project Path. The name of this oage will be the name of the project.
-4 Each post created under this project page will show up on the timeline.
-5 Multiple projects can be created by simply creating new Project Path subpages.
+1. Add files to your theme in the corresponding folders
+2. Create a top level page called *Project Path*. Make sure the slug is *projectpath*.
+3. For a new project, create a subpage fo Project Path. The name of this oage will be the name of the project.
+4. Each post created under this project page will show up on the timeline.
+5. Multiple projects can be created by simply creating new Project Path subpages.
 
 ## TODO:
 - Add back in the View etc links. (Need to figure out the best way to accomplish this.)
